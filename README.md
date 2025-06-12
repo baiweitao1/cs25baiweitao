@@ -1,1 +1,6 @@
-# cs25baiweitao
+GitHub Pages Exercise
+===========
+Involves
+* git
+* GitHub
+* SSH
